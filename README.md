@@ -1,7 +1,13 @@
-# SkyBlocks+
-[![Discord](https://img.shields.io/discord/123456789?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uuSYkzahBj)
+<div align="center">
 
-![SkyBlocks Plus Banner](banner.png)
+# SkyBlocks+
+[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uuSYkzahBj)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krithiv-7/SkyBlocksPlus)
+[![Personal Links](https://img.shields.io/badge/Personal-Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://links.krithiv.work)
+
+![SB+](https://cdn.modrinth.com/data/cached_images/68bcf014f06748a40625d3aa2286736f20ca69b1_0.webp)
+
+</div>
 
 ## Overview
 Experience Hypixel SkyBlock like never before with SkyBlocks+, a carefully curated collection of Forge mods for Minecraft 1.8.9. This comprehensive modpack enhances gameplay through intuitive interface improvements, performance optimizations, and specialized tools designed specifically for SkyBlock enthusiasts.
