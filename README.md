@@ -77,7 +77,7 @@ Enhance your visual experience with these compatible resource packs:
 
 ## Community & Support
 Join our community for help, suggestions, and updates:
-- Discord: [SkyBlocks Plus Discord](https://discord.gg/uuSYkzahBj)
+- Discord: [MineVerse](https://discord.gg/uuSYkzahBj)
 - I'm Lonly Pls Join😊😊😊
 
 
