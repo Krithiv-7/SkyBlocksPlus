@@ -1,6 +1,6 @@
 # SkyBlocks+ Community Code of Conduct
 
-This document defines the behavior expected from every member of the SkyBlocks+ community. Our goal is to create an environment that is welcoming, respectful, and productive for all participants. By engaging in the project—through issue reporting, discussions, code contributions, or other interactions—you agree to abide by the following guidelines.
+This document defines the behavior expected from every member of the SkyBlocks+ or MineVerse (Discord) community. Our goal is to create an environment that is welcoming, respectful, and productive for all participants. By engaging in the project—through issue reporting, discussions, code contributions, or other interactions—you agree to abide by the following guidelines.
 
 ## DO
 
