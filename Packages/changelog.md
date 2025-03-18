@@ -6,11 +6,6 @@ All notable changes to this project will be documented in this file.
 ### Added - 2025-03-18
 - Feature request discussion: [What Would Make SkyBlocksPlus Even Better?](https://github.com/Krithiv-7/SkyBlocksPlus/discussions)
 
-### Changed
-- Updated internal libraries for better performance.
-
-### Fixed
-- Minor bug fixes and performance improvements.
 
 ## [1.0.1-r] - 2025-03-18
 
