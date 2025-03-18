@@ -1,0 +1,298 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.1-r",
+  "name": "SkyBlocks+",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/SkyClientCosmetics-1.8.9-forge-1.2.2.jar",
+      "hashes": {
+        "sha512": "c5b3c4139900c058b685f5fad681ba79b4a7ec353c8cda51d332f90df7213cf80ee9c463209cdbe59f95a3c873c5057fb2523f29c863585a812efeac817afc50",
+        "sha1": "fa983140d13d2902b8e3390aff86293030313acf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wlq56PJK/versions/D5P0PDjN/SkyClientCosmetics-1.8.9-forge-1.2.2.jar"
+      ],
+      "fileSize": 10134516
+    },
+    {
+      "path": "mods/SkyblockAddons-1.10.6+529-for-MC-1.8.9.jar",
+      "hashes": {
+        "sha512": "d2f97b150262ff85745eac3a4377e29d8ae8e20c1572c49e9984accdb9302bba6a95724ee59bdf808fc256a02634d43d82721d697a2945e701ed4759d303ef5e",
+        "sha1": "1110f6159ff1f8609af12ca5b53cab7c8f958bfd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/F35D4vTL/versions/eCiETkXs/SkyblockAddons-1.10.6%2B529-for-MC-1.8.9.jar"
+      ],
+      "fileSize": 5725881
+    },
+    {
+      "path": "mods/OverflowParticles-1.8.9-forge-1.0.2.jar",
+      "hashes": {
+        "sha1": "2f016ebcb2e233e0a8d571e1d3debc30e06d4ef4",
+        "sha512": "9f25e5bf15c71307b95b1645dd89b8ba82322a71a28873b7cfdd9c52c847577db7a08931d51e2ca67cb70e61f946e10c68e4396f210bad05f8588c3965ba7710"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/61g97TVF/versions/4JC1SCCw/OverflowParticles-1.8.9-forge-1.0.2.jar"
+      ],
+      "fileSize": 89386
+    },
+    {
+      "path": "mods/SkyHanni-2.0.0-mc1.8.9.jar",
+      "hashes": {
+        "sha512": "deb58a7e28f4d8d4efb5e544aef59ea89640c28bb3ee209821116211a392ef00b43951f1e33079ea4a750b1955a428f08b71f1e1803516729b18b45cb3386035",
+        "sha1": "6b1161f4ac1279ec1ed59ed3619ca08fa98b9930"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/byNkmv5G/versions/Olcu80S1/SkyHanni-2.0.0-mc1.8.9.jar"
+      ],
+      "fileSize": 19248298
+    },
+    {
+      "path": "mods/OverflowAnimations-1.8.9-forge-2.2.5.jar",
+      "hashes": {
+        "sha1": "66ef68df6a816a3b508c310bfef3e651793f6753",
+        "sha512": "526568078e0ed17ae0e60ed4af69e872d7e5d8a077bcb8881f417b820e77f16668a6ad2a718475b7f45554fdd77889a837166ac6cb5914301d257d26b5f0695a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4Hfmgaef/versions/elKb2H82/OverflowAnimations-1.8.9-forge-2.2.5.jar"
+      ],
+      "fileSize": 173029
+    },
+    {
+      "path": "mods/NotEnoughUpdates-2.5.0.jar",
+      "hashes": {
+        "sha1": "8e7f8d2a8e6e7f5ec8097e5d45a46863f3e8719a",
+        "sha512": "3aa6bea897e2af1c9b0c204019739b752f5c8a4c92556c6990b5cac048f6161e675de8745ab406c7991af4993bd5c8f189e8d1951bdb178c09aedab03c9417e8"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GGamhqbw/versions/ZvBZT3yV/NotEnoughUpdates-2.5.0.jar"
+      ],
+      "fileSize": 30508152
+    },
+    {
+      "path": "mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+      "hashes": {
+        "sha1": "309e954f11df7f73a3b8f9f7f55e4a1574173e31",
+        "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
+      ],
+      "fileSize": 4032173
+    },
+    {
+      "path": "mods/replaymod-1.8.9-2.6.20.jar",
+      "hashes": {
+        "sha1": "11a8ebe00818a00b319e0bf41ca672e9321d9d8a",
+        "sha512": "ef49566deeaab0806ed9c282cca49c5edb4e3a79308b9ba479332867fd031a6800ca7b37f7aa6868070b140f1ff64cac3836d207fc83eb2391df837ab57dc5c6"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Nv2fQJo5/versions/OJEjSBv2/replaymod-1.8.9-2.6.20.jar"
+      ],
+      "fileSize": 16074300
+    },
+    {
+      "path": "resourcepacks/§a§lFurf§b§lSky §6§lReborn §8§lFULL.zip",
+      "hashes": {
+        "sha512": "1245dc6fb704ccf38031f556e18158ed175a09ef653d7ea2d09b5c463225024c5190350928553308b2690659c579f37d30625bb3a02191b701d99f3660679937",
+        "sha1": "18043c3b7ff329329660cddc48eebb98fae7be88"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/khMbd0K1/versions/Dzth04ay/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFULL.zip"
+      ],
+      "fileSize": 9376324
+    },
+    {
+      "path": "mods/ctjs-2.2.0-1.8.9.jar",
+      "hashes": {
+        "sha512": "7688bc0cda041f38d19e8dd02ecd50db8ecd3f7cbfeba800fbcf20814179eef457903d242b1c804bd2cae00a5b217a3566aeafdaffa12c97023d8fc167c5ed30",
+        "sha1": "691cd64f30def1c5573e4ee67a7b9914700454ea"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/UiTVKucn/versions/xNSlYzXb/ctjs-2.2.0-1.8.9.jar"
+      ],
+      "fileSize": 4041557
+    },
+    {
+      "path": "mods/FancyWarpMenu-2.0-beta.1+121.jar",
+      "hashes": {
+        "sha1": "9092efe9d20c084bf11fee9a68bbac3729c36da5",
+        "sha512": "fcafaf05f552b7391957939ebe1bdfb4d159e9f297f65b39c983382bec1ffc5973fdcfc76337979aeb8924b1fb1b7a075f42e8d66f915133ad880195d70ffa77"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XAqp0XTf/versions/sdJblxLE/FancyWarpMenu-2.0-beta.1%2B121.jar"
+      ],
+      "fileSize": 10131275
+    },
+    {
+      "path": "mods/SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+      "hashes": {
+        "sha512": "fad298ebb14a12e692eb6dce6f68c0d67b9a2e40e85369683721e7d5c0d925b7b481c4a6592e4278e92e6dcf9b938061caaeb4f415fba69b7e2f66031c8f3d4e",
+        "sha1": "6e361899c90c365a01b78e49e0a12bccabd9eeb5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2BXykn9u/versions/Sc5feDQE/SkyGuide%20%281.8.9-forge%29-1.3.0%2Boneconfig.jar"
+      ],
+      "fileSize": 346634
+    },
+    {
+      "path": "mods/VanillaHUD-1.8.9-forge-2.2.10.jar",
+      "hashes": {
+        "sha512": "7d1d06146ecf39a1530898efba323e596c59253c8352aa21f20b68fe974c0f6754dcb09528cd7b7884e794153a039ca44d6c4f7fb216a4aa9c575912f94f251f",
+        "sha1": "50e961b330cee0e225f189060f87f935da593ac6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/pWXJaKrX/versions/ZdUSjjkc/VanillaHUD-1.8.9-forge-2.2.10.jar"
+      ],
+      "fileSize": 126174
+    },
+    {
+      "path": "mods/PolyPatcher-1.8.9-forge-1.10.2.jar",
+      "hashes": {
+        "sha512": "ba8c651d4036ce181a436209308722e1cce587a6c34b058f03d19381e9beb0c238eabaea818057aa219419403c2cd37f0c97212dacfacbf837f4e495354d9478",
+        "sha1": "295ae3f562b66d95560a6f653d638c0b945fd21b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YknNc5nN/versions/qMIi00a0/PolyPatcher-1.8.9-forge-1.10.2.jar"
+      ],
+      "fileSize": 27195513
+    },
+    {
+      "path": "mods/Chatting-1.8.9-forge-2.0.6.jar",
+      "hashes": {
+        "sha1": "68b9960a2632e6a19e89c23daca78ecb8f11f46d",
+        "sha512": "e3c39001aff31ae2741bce00056390f5ff1446736280fcd3db36ca375f29b8da3e5793dbd2b1794ce588be354276a03d47e166e2d7d2268745797f0de73ae44c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8pJYUDNi/versions/TaaTviAI/Chatting-1.8.9-forge-2.0.6.jar"
+      ],
+      "fileSize": 195637
+    },
+    {
+      "path": "resourcepacks/Hypixel+ 0.20.7 for 1.8.9.zip",
+      "hashes": {
+        "sha512": "eb78a74914d6d6a70afdbf062e647065d326c5107c33a4d9fff5c051be3ca5c4f970dc7903b6e4b2e259e2419675db26ac56709520a6d503e3989883404b9962",
+        "sha1": "b14850e18ddcb1aa195ef0bbff28c48a0d41a105"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p6lVqTvA/versions/C1xuVki1/Hypixel%2B%200.20.7%20for%201.8.9.zip"
+      ],
+      "fileSize": 22146138
+    },
+    {
+      "path": "mods/Hytils Reborn-1.8.9-forge-1.7.4.jar",
+      "hashes": {
+        "sha1": "55aa5ff7bcd23f2a118b9066ef6749988f89c64d",
+        "sha512": "36e83c871250eab558c17c61f6a89843cd2f6b3eae4368c5985736109a549776e5677f9ddab941ff8f49021563802619698a4e5cc9a63a8f21ce12517f1c2e8b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nF6YaBfO/versions/u9ZFPMb5/Hytils%20Reborn-1.8.9-forge-1.7.4.jar"
+      ],
+      "fileSize": 354064
+    },
+    {
+      "path": "mods/dungeonsguide-4.0.0-beta12.5-standalone.jar",
+      "hashes": {
+        "sha512": "0017e43fa5861b60fc5d3d7ccd61597bff9b720454bd03277b3b5339774a5efc7d83b1973727cb638c1c4f4c0a5badef3e18f183c437c96a38e175c06dc48cd1",
+        "sha1": "ee7d1752b8758bc2a11d13c6c7ea5f81ca9ebd37"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nU0bz6EH/versions/Rr2nHzqg/dungeonsguide-4.0.0-beta12.5-standalone.jar"
+      ],
+      "fileSize": 18273189
+    },
+    {
+      "path": "mods/EvergreenHUD-1.8.9-forge-2.1.7.jar",
+      "hashes": {
+        "sha512": "a253753b275961e037bf61ad3ce02172d5845b53a3528133500b786686302e882e4efd9849bda17092e75d17e0e7d1c4b648edafcae3f08bfadc082ff8d2f737",
+        "sha1": "652e6b2c45466bf3da781acb4f8395022c6f6646"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1yIQcc2b/versions/YAwKwEPz/EvergreenHUD-1.8.9-forge-2.1.7.jar"
+      ],
+      "fileSize": 250199
+    }
+  ],
+  "dependencies": {
+    "forge": "11.15.1.2318",
+    "minecraft": "1.8.9"
+  }
+}

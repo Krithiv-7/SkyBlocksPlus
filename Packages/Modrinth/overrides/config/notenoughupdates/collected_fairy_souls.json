@@ -1,0 +1,17 @@
+{
+  "pear": {
+    "hub": []
+  },
+  "cucumber": {
+    "dungeon_hub": [],
+    "combat_3": [],
+    "hub": [
+      67
+    ],
+    "farming_1": [],
+    "winter": [],
+    "foraging_1": [],
+    "mining_3": [],
+    "combat_1": []
+  }
+}

@@ -1,0 +1,54 @@
+18:16:58 `Zombie`271115 missed {
+ is already Found: false).
+ Position: LorenzVec(x=627.3946759259259, y=68.27777777777777, z=380.22685185185185)
+ DistanceC: 20.703434390334905
+Relative Position: LorenzVec(x=20.703434390334905, y=-53.72222222222223, z=9.939094876434979)
+ }
+18:17:32 `d5z16o113g`53 missed {
+ is already Found: false).
+ Position: LorenzVec(x=637.5, y=88.0, z=351.5)
+ DistanceC: 21.80000001192093
+Relative Position: LorenzVec(x=21.80000001192093, y=-13.0, z=8.199999988079071)
+ }
+18:18:43 `q9f5nweo5u`55 missed {
+ is already Found: false).
+ Position: LorenzVec(x=673.5, y=88.0, z=321.5)
+ DistanceC: 19.542078020156623
+Relative Position: LorenzVec(x=-19.542078020156623, y=20.0, z=-5.406221856706054)
+ }
+18:20:37 `q9f5nweo5u`55 missed {
+ is already Found: false).
+ Position: LorenzVec(x=673.5, y=88.0, z=321.5)
+ DistanceC: 20.118345223390065
+Relative Position: LorenzVec(x=-20.118345223390065, y=20.0, z=-8.72495042184147)
+ }
+18:20:51 `8ch86mrnw4`54 missed {
+ is already Found: false).
+ Position: LorenzVec(x=667.5, y=88.0, z=387.5)
+ DistanceC: 20.514222744888116
+Relative Position: LorenzVec(x=20.514222744888116, y=12.51698264870825, z=15.577866895733166)
+ }
+18:21:06 `8ch86mrnw4`54 missed {
+ is already Found: false).
+ Position: LorenzVec(x=667.5, y=88.0, z=387.5)
+ DistanceC: 10.8463416244864
+Relative Position: LorenzVec(x=-0.2036086938844619, y=14.029558519062547, z=10.8463416244864)
+ }
+18:21:30 `05b8ta391k`56 missed {
+ is already Found: false).
+ Position: LorenzVec(x=703.5, y=88.0, z=357.5)
+ DistanceC: 21.05710878529908
+Relative Position: LorenzVec(x=21.05710878529908, y=20.0, z=-5.131722448575829)
+ }
+18:22:46 `05b8ta391k`56 missed {
+ is already Found: false).
+ Position: LorenzVec(x=703.5, y=88.0, z=357.5)
+ DistanceC: 22.048367840713126
+Relative Position: LorenzVec(x=22.048367840713126, y=20.0, z=-3.3651727543337415)
+ }
+18:23:30 `8ch86mrnw4`54 missed {
+ is already Found: false).
+ Position: LorenzVec(x=667.5, y=88.0, z=387.5)
+ DistanceC: 11.800000011920929
+Relative Position: LorenzVec(x=-0.49906285490351365, y=20.0, z=11.800000011920929)
+ }

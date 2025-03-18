@@ -1,0 +1,113 @@
+{
+  "firstLoad": false,
+  "version": "1.7.5",
+  "suggestionModule": {
+    "suggestionListLength": 10,
+    "useProfitPerHour": false,
+    "suggestionShowEnchantments": true,
+    "showEverywhere": false,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "2",
+      "x": -130.0,
+      "y": 47.0
+    },
+    "scale": 0.9,
+    "positionAlignment": 0,
+    "showInChat": false,
+    "showInDebug": false,
+    "showInGuis": false
+  },
+  "craftingModule": {
+    "craftingListLength": 10,
+    "craftingSortingOption": 0,
+    "useBuyOrders": true,
+    "showInstantSellProfit": true,
+    "showSellOfferProfit": true,
+    "showProfitPerMil": true,
+    "showEverywhere": false,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "6",
+      "x": 8.0,
+      "y": -46.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": false,
+    "showInDebug": false,
+    "showInGuis": false
+  },
+  "notificationModule": {
+    "showEverywhere": false,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "5",
+      "x": -97.0,
+      "y": 23.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": false,
+    "showInDebug": false,
+    "showInGuis": false
+  },
+  "bankModule": {
+    "bazaarProfit": -1328.1730000000016,
+    "bazaarDailyAmount": 1.0E10,
+    "bankRawDifference": false,
+    "showEverywhere": false,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "0",
+      "x": 20.0,
+      "y": 20.0
+    },
+    "scale": 1.0,
+    "positionAlignment": 0,
+    "showInChat": false,
+    "showInDebug": false,
+    "showInGuis": false
+  },
+  "legacyMovement": true,
+  "showChatMessages": true,
+  "collectionCheck": false,
+  "infoColor": {
+    "hsba": [
+      0,
+      0,
+      50,
+      255
+    ],
+    "dataBit": -1
+  },
+  "itemColor": {
+    "hsba": [
+      180,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "numberColor": {
+    "hsba": [
+      300,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "lastLogin": 1742280696263,
+  "enabled": true,
+  "canToggle": true
+}

@@ -1,0 +1,14 @@
+{
+  "customMainMenu": false,
+  "showTags": false,
+  "shortenTags": false,
+  "rpcLineTwo": "Playing Hypixel",
+  "rpcLineOne": "%player% is very cool",
+  "rpcImgText": "SkyClient is cool",
+  "rpc": false,
+  "joinMessage": false,
+  "hasWipedOutPSS": false,
+  "hasWipedOutReplayModAutoRecording": false,
+  "enabled": true,
+  "canToggle": true
+}
