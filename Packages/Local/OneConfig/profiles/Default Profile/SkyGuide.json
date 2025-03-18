@@ -1,0 +1,61 @@
+{
+  "mapKeyBind": {
+    "keyBinds": [
+      50
+    ]
+  },
+  "showWarps": true,
+  "showMVPWarps": true,
+  "showNpcs": true,
+  "pinColor": {
+    "hsba": [
+      0,
+      100,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "mapBlur": true,
+  "defaultScale": 2.0,
+  "POIScale": 1.0,
+  "mapPointerSize": 14.0,
+  "miniMap": {
+    "background": false,
+    "backgroundColor": {
+      "hsba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "dataBit": -1
+    },
+    "rotateWithPlayer": true,
+    "showWarpsMiniMap": true,
+    "showNpcsMiniMap": true,
+    "mapZoom": 1.5,
+    "undergroundMapZoom": 2.0,
+    "POIScaleMiniMap": 1.0,
+    "miniMapPointerSize": 12.0,
+    "smoothImages": false,
+    "enabled": true,
+    "locked": false,
+    "ignoreCaching": false,
+    "position": {
+      "anchor": "2",
+      "x": 0.0,
+      "y": 0.0
+    },
+    "scale": 0.6,
+    "positionAlignment": 0,
+    "showInChat": true,
+    "showInDebug": false,
+    "showInGuis": true
+  },
+  "skytilsWaypoints": true,
+  "disabledSkytilsWaypoints": false,
+  "neuWaypoints": true,
+  "enabled": true,
+  "canToggle": true
+}

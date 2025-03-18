@@ -1,0 +1,18 @@
+18:20:39 `Pig`475598 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-25.1875, y=68.0, z=-101.46875}
+ DistanceC: 14.168749988079071
+Relative Position: LorenzVec{x=10.458656079443855, y=-4.0, z=-14.168749988079071}
+ }
+18:20:40 `Pig`135787 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-17.5, y=68.0, z=-106.5}
+ DistanceC: 19.19999998807907
+Relative Position: LorenzVec{x=18.146156079443855, y=-4.0, z=-19.19999998807907}
+ }
+18:20:47 `Pig`144878 missed {
+ is already Found: false).
+ Position: LorenzVec{x=-57.5, y=71.0, z=-108.65625}
+ DistanceC: 21.853843920556145
+Relative Position: LorenzVec{x=-21.853843920556145, y=-1.0, z=-21.35624998807907}
+ }
