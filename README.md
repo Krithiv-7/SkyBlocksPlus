@@ -87,6 +87,6 @@ Join our community for help, suggestions, and updates:
 - Special thanks to the Hypixel SkyBlock modding community
 
 ## License
-GNU General Public License v3.0 (GPL-3.0). This modpack is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+MIT License. This modpack is free software: you can redistribute it and/or modify it under the terms of the MIT License.
 
 All included mods retain their original licenses as designated by their respective authors.
