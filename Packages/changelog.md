@@ -4,11 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## v1.0.2-r - March 20, 2025
+## [v1.0.2-r] - March 20, 2025
 
 ### Changes:
 - **Updated SkyblocksAddons Unofficial (SBA)** to the latest version **1.10.7**.
   - Includes a minor patch for improved stability and performance.
+    
+[v1.0.2-r]: https://github.com/Krithiv-7/SkyBlocksPlus/releases/tag/v1.0.2-r
 
 ---
 
@@ -16,7 +18,7 @@ All notable changes to this project will be documented in this file.
 - Feature request discussion: [What Would Make SkyBlocksPlus Even Better?](https://github.com/Krithiv-7/SkyBlocksPlus/discussions)
 
 
-## [1.0.1-r] - 2025-03-18
+## [v1.0.1-r] - 2025-03-18
 
 ### Added
 - Official release of SkyBlocks+ modpack
@@ -32,7 +34,7 @@ All notable changes to this project will be documented in this file.
 - **Dungeons Guide crash** while using Essential account changer:  
   You need to manually load the jar file. Steps are easy, and you don't have to relaunch the game—just follow the notification inside Minecraft.
 
-**Full Changelog**: https://github.com/Krithiv-7/SkyBlocksPlus/compare/v1.0.0-beta...v1.0.1-r
+[v1.0.1-r]: https://github.com/Krithiv-7/SkyBlocksPlus/releases/tag/v1.0.1-r
 
 ---
 
