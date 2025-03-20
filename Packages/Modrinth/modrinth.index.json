@@ -21,7 +21,7 @@
       "fileSize": 10134516
     },
     {
-      "path": "mods/SkyblockAddons-1.10.6+529-for-MC-1.8.9.jar",
+      "path": "mods/SkyblockAddons-1.10.7+545-for-MC-1.8.9.jar",
       "hashes": {
         "sha512": "d2f97b150262ff85745eac3a4377e29d8ae8e20c1572c49e9984accdb9302bba6a95724ee59bdf808fc256a02634d43d82721d697a2945e701ed4759d303ef5e",
         "sha1": "1110f6159ff1f8609af12ca5b53cab7c8f958bfd"
@@ -31,7 +31,7 @@
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/F35D4vTL/versions/eCiETkXs/SkyblockAddons-1.10.6%2B529-for-MC-1.8.9.jar"
+        "https://cdn.modrinth.com/data/F35D4vTL/versions/eCiETkXs/SkyblockAddons-1.10.7%2B545-for-MC-1.8.9.jar"
       ],
       "fileSize": 5725881
     },
