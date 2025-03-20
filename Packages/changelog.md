@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+---
+
+## v1.0.2-r - March 20, 2025
+
+### Changes:
+- **Updated SkyblocksAddons Unofficial (SBA)** to the latest version **1.10.7**.
+  - Includes a minor patch for improved stability and performance.
+
+---
 
 ### Added - 2025-03-18
 - Feature request discussion: [What Would Make SkyBlocksPlus Even Better?](https://github.com/Krithiv-7/SkyBlocksPlus/discussions)
@@ -24,6 +33,8 @@ All notable changes to this project will be documented in this file.
   You need to manually load the jar file. Steps are easy, and you don't have to relaunch the game—just follow the notification inside Minecraft.
 
 **Full Changelog**: https://github.com/Krithiv-7/SkyBlocksPlus/compare/v1.0.0-beta...v1.0.1-r
+
+---
 
 ## [1.0.0-beta] - 2025-03-08
 
