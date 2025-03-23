@@ -30,7 +30,7 @@ SkyBlocks+ is fully customizable, allowing you to tailor the experience to your 
 ## Important Note
 This modpack contains only client-side modifications that comply with Hypixel server rules. Always verify that mods comply with current Hypixel rules before using them.
 
-Please read the documentation or catalogs for each mod to understand their full functionality and configuration options. Most mods include either in-game guides, wiki pages, or documentation on their download pages that explain how to use their features effectively.
+Please read the documentation or for each mod to understand their full functionality and configuration options. Most mods include either in-game guides, wiki pages, or documentation on their download pages that explain how to use their features effectively.
 
 ## Performance Recommendation
 For the best gameplay experience, we recommend using OptiFine alongside this modpack for improved performance and additional visual options.
