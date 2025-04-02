@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 1.1.2-r - April 2, 2025
+
+### Changes:
+- Upgraded **Skyclient** cosmetic from **v1.2.2** to **v1.2.4**
+- Upgraded **Chattriggers** from **v2.2.0** to **v2.2.1**
+
+### Other Changes:
+- **Version Tag Updates:**
+  - `v0.0.X-build`: Patch Changes (config/minor fixes)
+  - `v0.X.0-build`: Minor Changes (mod updates/resource pack)
+  - `vX.0.0-build`: Major Changes (new mods/major update)
+
+
 ## v1.0.2-r - March 20, 2025
 
 ### Changes:
