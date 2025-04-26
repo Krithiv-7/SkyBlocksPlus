@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.2.2-r] - 2025-04-26
+
+### Changes
+- **Updated VanillaHUD**: Upgraded from `v2.2.10` to `v2.2.11`.
+- **Updated Skyblocks Addons Unofficial (SBA)**: Upgraded from `1.10.7` to `1.10.8`.
+
+### Notes
+This release focuses on updating core components for improved performance and compatibility.
+
 ## 1.1.2-r - April 2, 2025
 
 ### Changes:
