@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.3.2-r] - 2025-05-14
+
+### Changes
+- **Updated Poly Patcher**: Upgraded to `v1.10.2`.
+- **Updated Skyblocks Addons Unofficial (SBA)**: Upgraded to `1.10.8`.
+- **Updated SkyHanni**: Upgraded to `v2.0.1`.
+- **Updated VanillaHUD**: Upgraded to `v2.2.11`.
+
+### Notes
+This release includes updates to key components for enhanced functionality and performance.
+
 ## [v1.2.2-r] - 2025-04-26
 
 ### Changes
