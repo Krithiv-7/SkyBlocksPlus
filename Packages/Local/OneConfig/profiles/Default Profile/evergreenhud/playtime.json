@@ -11,7 +11,7 @@
       ],
       "dataBit": -1
     },
-    "title": "",
+    "title": "Playtime",
     "titleLocation": 0,
     "color": {
       "hsba": [
@@ -23,7 +23,7 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": false,
+    "background": true,
     "rounded": false,
     "border": false,
     "bgColor": {
@@ -55,8 +55,8 @@
     "ignoreCaching": false,
     "position": {
       "anchor": "0",
-      "x": 68.0,
-      "y": 0.0
+      "x": 0.0,
+      "y": 130.0
     },
     "scale": 1.0,
     "positionAlignment": 0,
@@ -64,6 +64,6 @@
     "showInDebug": false,
     "showInGuis": true
   },
-  "enabled": true,
+  "enabled": false,
   "canToggle": true
 }

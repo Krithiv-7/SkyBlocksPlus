@@ -5,28 +5,28 @@
         "cucumber": {
           "sackContents": {
             "ENCHANTED_GOLD": {
-              "amount": 267,
-              "lastChange": 106,
+              "amount": 458,
+              "lastChange": 43,
               "status": "ALRIGHT"
             },
             "ENCHANTED_IRON": {
-              "amount": 150,
-              "lastChange": 11,
+              "amount": 193,
+              "lastChange": 43,
               "status": "ALRIGHT"
             },
             "ENCHANTED_EMERALD": {
-              "amount": 185,
-              "lastChange": 81,
+              "amount": 352,
+              "lastChange": 52,
               "status": "ALRIGHT"
             },
             "ENCHANTED_LAPIS_LAZULI": {
-              "amount": 65,
-              "lastChange": 0,
+              "amount": 161,
+              "lastChange": 96,
               "status": "ALRIGHT"
             },
             "ENCHANTED_SNOW_BLOCK": {
-              "amount": 654,
-              "lastChange": 107,
+              "amount": 3790,
+              "lastChange": 1152,
               "status": "CORRECT"
             },
             "ROUGH_ONYX_GEM": {
@@ -60,13 +60,13 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_DIAMOND_BLOCK": {
-              "amount": 2,
-              "lastChange": 0,
+              "amount": 6,
+              "lastChange": 4,
               "status": "ALRIGHT"
             },
             "ENCHANTED_EMERALD_BLOCK": {
-              "amount": 1,
-              "lastChange": 0,
+              "amount": 4,
+              "lastChange": 3,
               "status": "ALRIGHT"
             },
             "ENCHANTED_ENDSTONE": {
@@ -95,8 +95,8 @@
               "status": "ALRIGHT"
             },
             "ENCHANTED_GOLD_BLOCK": {
-              "amount": 1,
-              "lastChange": 0,
+              "amount": 4,
+              "lastChange": -1,
               "status": "ALRIGHT"
             },
             "ENCHANTED_HARD_STONE": {
@@ -110,13 +110,13 @@
               "status": "CORRECT"
             },
             "ENCHANTED_IRON_BLOCK": {
-              "amount": 2,
-              "lastChange": 0,
+              "amount": 9,
+              "lastChange": 6,
               "status": "ALRIGHT"
             },
             "ENCHANTED_LAPIS_LAZULI_BLOCK": {
-              "amount": 3,
-              "lastChange": 1,
+              "amount": 24,
+              "lastChange": 17,
               "status": "ALRIGHT"
             },
             "ENCHANTED_MITHRIL": {
@@ -825,6 +825,9 @@
               "status": "CORRECT"
             }
           }
+        },
+        "kiwi": {
+          "sackContents": {}
         }
       }
     },

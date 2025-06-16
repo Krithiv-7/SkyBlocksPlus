@@ -757,6 +757,57 @@
   "hidden": {
     "customTodos": [],
     "profileSpecific": {
+      "Kiwi": {
+        "godPotionDuration": 21600000,
+        "puzzlerCompleted": 0,
+        "firstCakeAte": 0,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {},
+        "magicalPower": 0,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {},
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
       "Pear": {
         "godPotionDuration": 0,
         "puzzlerCompleted": 0,
@@ -809,7 +860,7 @@
         "abiphoneMagicPower": 0
       },
       "Cucumber": {
-        "godPotionDuration": 36000000,
+        "godPotionDuration": 21600000,
         "puzzlerCompleted": 0,
         "firstCakeAte": 1742285495284,
         "fetchurCompleted": 0,
@@ -982,7 +1033,7 @@
             "internalname": "_"
           }
         },
-        "magicalPower": 508,
+        "magicalPower": 520,
         "chestCount": 35,
         "openedChestCount": 30,
         "mithrilPowderFound": 0,
@@ -1495,7 +1546,9 @@
       "strong",
       "Arachne\u0027s Calling"
     ],
-    "previousProfileSearches": [],
+    "previousProfileSearches": [
+      "_tanmay_"
+    ],
     "previousRecipeSearches": [],
     "eventFavourites": [],
     "quickCommands": [

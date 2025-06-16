@@ -1,7 +1,7 @@
 {
   "settings": {
     "cleanerParticles": true,
-    "cleanView": true,
+    "cleanView": false,
     "staticParticleColor": true,
     "maxParticleLimit": 4000,
     "particleNoClip": false,

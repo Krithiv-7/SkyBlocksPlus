@@ -1,6 +1,6 @@
 {
   "configVersion": 11,
-  "lastFeatureId": 256,
+  "lastFeatureId": 259,
   "features": {
     "DROP_CONFIRMATION": {
       "value": false,
@@ -399,7 +399,10 @@
       "color": -1
     },
     "FANCY_WARP_MENU": {
-      "value": false
+      "value": false,
+      "settings": {
+        "DOUBLE_WARP": true
+      }
     },
     "LEGENDARY_SEA_CREATURE_WARNING": {
       "value": true,
@@ -766,9 +769,6 @@
       ],
       "color": -16733526
     },
-    "DOUBLE_WARP": {
-      "value": true
-    },
     "DISABLE_EMPTY_GLASS_PANES": {
       "value": true
     },
@@ -994,6 +994,15 @@
     },
     "SHOW_COLOR_ICONS": {
       "value": true
+    },
+    "AUTO_UPDATE": {
+      "value": "STABLE"
+    },
+    "FULL_AUTO_UPDATE": {
+      "value": false
+    },
+    "CHAT_MESSAGE_COPYING": {
+      "value": false
     }
   }
 }

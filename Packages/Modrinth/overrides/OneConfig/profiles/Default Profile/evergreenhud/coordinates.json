@@ -1,7 +1,7 @@
 {
   "hud": {
-    "displayMode": true,
-    "showAxis": false,
+    "displayMode": false,
+    "showAxis": true,
     "showDirection": false,
     "showX": true,
     "showY": true,
@@ -18,7 +18,7 @@
       "dataBit": -1
     },
     "textType": 0,
-    "background": false,
+    "background": true,
     "rounded": false,
     "border": false,
     "bgColor": {
@@ -50,7 +50,7 @@
     "ignoreCaching": false,
     "position": {
       "anchor": "0",
-      "x": 218.0,
+      "x": 0.0,
       "y": 0.0
     },
     "scale": 1.0,

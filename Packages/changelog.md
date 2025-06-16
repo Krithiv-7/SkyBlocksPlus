@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.4.3-r] - 2025-06-16
+
+### Changes
+- **Updated Dungeons Guide**: Upgraded to `4.0.0-beta12.5-experimental12.2`.
+- **Updated Hypixel+**: Upgraded to `0.22.1.1`.
+
+### Notes
+This release includes major upgrades and configuration changes optimized for best performance.
+
+
 ## [v1.3.2-r] - 2025-05-14
 
 ### Changes

@@ -1,6 +1,8 @@
 {
   "pear": {
-    "hub": []
+    "hub": [
+      67
+    ]
   },
   "cucumber": {
     "dungeon_hub": [],
