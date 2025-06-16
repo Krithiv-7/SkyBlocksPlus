@@ -1,9 +1,9 @@
 <div align="center">
 
 # SkyBlocks+
-[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uuSYkzahBj)
+[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.krithiv.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krithiv-7/SkyBlocksPlus)
-[![Personal Links](https://img.shields.io/badge/Personal-Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://links.krithiv.work)
+[![Personal Links](https://img.shields.io/badge/Personal-Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://links.krithiv.dev)
 
 ![SB+](https://cdn.modrinth.com/data/cached_images/68bcf014f06748a40625d3aa2286736f20ca69b1_0.webp)
 
@@ -77,7 +77,7 @@ Enhance your visual experience with these compatible resource packs:
 
 ## Community & Support
 Join our community for help, suggestions, and updates:
-- Discord: [MineVerse](https://discord.gg/uuSYkzahBj)
+- Discord: [MineVerse](https://discord.krithiv.dev)
 - I'm Lonly Pls Join😊😊😊
 
 
